@@ -1,0 +1,1 @@
+/Users/motokowang/coding/motoko-no-enjiniaringu-noto/binary_search_insert_rust/target/debug/binary_search_insert_rust: /Users/motokowang/coding/motoko-no-enjiniaringu-noto/binary_search_insert_rust/src/main.rs
